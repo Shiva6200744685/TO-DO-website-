@@ -9,6 +9,6 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7001") });
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://to-do-website-m0ve.onrender.com") });
 
 await builder.Build().RunAsync();

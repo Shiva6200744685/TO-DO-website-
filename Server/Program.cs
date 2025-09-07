@@ -20,4 +20,8 @@ var app = builder.Build();
 app.UseCors();
 app.MapControllers();
 
+// Health check endpoint
+app.MapGet("/", () => "Task Tracker API is running!");
+app.MapGet("/health", () => "OK");
+
 app.Run();
