@@ -1,0 +1,10 @@
+{
+  "buildCommand": "cd Client && dotnet publish -c Release",
+  "outputDirectory": "Client/bin/Release/net8.0/publish/wwwroot",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}

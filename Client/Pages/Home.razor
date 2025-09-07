@@ -377,10 +377,20 @@
     {
         try
         {
-            tasks = await Http.GetFromJsonAsync<List<TaskItem>>("api/tasks") ?? new List<TaskItem>();
+            var response = await Http.GetAsync("api/tasks");
+            if (response.IsSuccessStatusCode)
+            {
+                tasks = await response.Content.ReadFromJsonAsync<List<TaskItem>>() ?? new List<TaskItem>();
+            }
+            else
+            {
+                Console.WriteLine($"API Error: {response.StatusCode} - {await response.Content.ReadAsStringAsync()}");
+                tasks = new List<TaskItem>();
+            }
         }
-        catch
+        catch (Exception ex)
         {
+            Console.WriteLine($"Exception: {ex.Message}");
             tasks = new List<TaskItem>();
         }
     }
