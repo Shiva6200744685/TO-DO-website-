@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj": {}
+    "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj": {}
   },
   "projects": {
-    "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj": {
+    "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj",
+        "projectUniqueName": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj",
         "projectName": "TaskTracker.Client",
-        "projectPath": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj",
+        "projectPath": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\TaskTracker.Client.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\obj\\",
+        "outputPath": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj": {
-                "projectPath": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj"
+              "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj": {
+                "projectPath": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj"
               }
             }
           }
@@ -100,14 +100,14 @@
         }
       }
     },
-    "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj": {
+    "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj",
+        "projectUniqueName": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj",
         "projectName": "TaskTracker.Shared",
-        "projectPath": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj",
+        "projectPath": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\TaskTracker.Shared.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\obj\\",
+        "outputPath": "D:\\Projects Folder\\Grapecity Project\\TaskTracker\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"

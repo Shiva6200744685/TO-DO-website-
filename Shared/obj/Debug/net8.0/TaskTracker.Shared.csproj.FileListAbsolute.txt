@@ -9,3 +9,4 @@ D:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Debug\net8.0\TaskTra
 D:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Debug\net8.0\refint\TaskTracker.Shared.dll
 D:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Debug\net8.0\TaskTracker.Shared.pdb
 D:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Debug\net8.0\ref\TaskTracker.Shared.dll
+D:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Debug\net8.0\TaskTracker.Shared.sourcelink.json

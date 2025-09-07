@@ -25,3 +25,4 @@ D:\Projects Folder\Grapecity Project\TaskTracker\Server\obj\Debug\net8.0\refint\
 D:\Projects Folder\Grapecity Project\TaskTracker\Server\obj\Debug\net8.0\TaskTracker.Server.pdb
 D:\Projects Folder\Grapecity Project\TaskTracker\Server\obj\Debug\net8.0\TaskTracker.Server.genruntimeconfig.cache
 D:\Projects Folder\Grapecity Project\TaskTracker\Server\obj\Debug\net8.0\ref\TaskTracker.Server.dll
+D:\Projects Folder\Grapecity Project\TaskTracker\Server\obj\Debug\net8.0\TaskTracker.Server.sourcelink.json
