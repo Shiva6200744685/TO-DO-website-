@@ -1,31 +1,68 @@
-# Task Tracker - Mini To-Do App
+# 📋 Task Tracker - Full Stack .NET Application
 
-A minimal Blazor WebAssembly app with ASP.NET Core backend.
+A modern task management application built with **C# .NET 8**, **ASP.NET Core Web API**, and **Blazor WebAssembly**.
 
-## Features
-- Add, edit, and delete tasks
-- Mark tasks as completed
-- In-memory storage
-- Clean Blazor UI
+## 🚀 Tech Stack
 
-## Running the App
+- **Backend**: ASP.NET Core Web API
+- **Frontend**: Blazor WebAssembly  
+- **Language**: C# .NET 8
+- **Storage**: In-memory (for demo)
+- **Deployment**: Render (API) + Netlify (Frontend)
 
-1. **Start the API server:**
-   ```
+## ✨ Features
+
+- ✅ Add, edit, and delete tasks
+- ✅ Mark tasks as completed
+- ✅ Professional UI with animations
+- ✅ Responsive design
+- ✅ Real-time task statistics
+- ✅ Double-click to edit tasks
+
+## 🏗️ Project Structure
+
+```
+TaskTracker/
+├── Server/          # ASP.NET Core Web API
+├── Client/          # Blazor WebAssembly
+├── Shared/          # Common models
+└── Dockerfile       # Container deployment
+```
+
+## 🚀 Live Demo
+
+- **Frontend**: [Deployed on Netlify]
+- **API**: https://to-do-website-m0ve.onrender.com
+
+## 🛠️ Local Development
+
+1. **Start API:**
+   ```bash
    cd Server
    dotnet run
    ```
 
-2. **Start the Blazor client:**
-   ```
-   cd Client
+2. **Start Frontend:**
+   ```bash
+   cd Client  
    dotnet run
    ```
 
-3. **Open browser:** Navigate to the client URL (typically https://localhost:5001)
+## 📦 Deployment
 
-## Usage
-- Type a task and click "Add Task"
-- Check/uncheck to mark complete
-- Double-click task text to edit
-- Click "Delete" to remove tasks
+### Backend (Render)
+- Automatically deploys from `main` branch
+- Uses `render.yaml` configuration
+
+### Frontend (Netlify)
+- Automatically builds and deploys
+- Uses `netlify.toml` configuration
+
+## 🔧 API Endpoints
+
+- `GET /api/tasks` - Get all tasks
+- `POST /api/tasks` - Create task
+- `PUT /api/tasks/{id}` - Update task
+- `DELETE /api/tasks/{id}` - Delete task
+
+Built with ❤️ using Microsoft .NET ecosystem
