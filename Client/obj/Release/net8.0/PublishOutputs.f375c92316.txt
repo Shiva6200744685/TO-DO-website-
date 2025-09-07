@@ -1,0 +1,1 @@
+d:\Projects Folder\Grapecity Project\TaskTracker\Client\bin\Release\net8.0\publish\web.config

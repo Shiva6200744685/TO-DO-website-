@@ -1,0 +1,12 @@
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\bin\Release\net8.0\TaskTracker.Shared.deps.json
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\bin\Release\net8.0\TaskTracker.Shared.dll
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\bin\Release\net8.0\TaskTracker.Shared.pdb
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.AssemblyInfoInputs.cache
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.AssemblyInfo.cs
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.csproj.CoreCompileInputs.cache
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.sourcelink.json
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.dll
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\refint\TaskTracker.Shared.dll
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\TaskTracker.Shared.pdb
+d:\Projects Folder\Grapecity Project\TaskTracker\Shared\obj\Release\net8.0\ref\TaskTracker.Shared.dll
